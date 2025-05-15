@@ -1,2 +1,5 @@
-mod array;
+// mod array;
+// mod dic;
+// mod enumm; 
+mod structt;
 

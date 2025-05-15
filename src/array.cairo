@@ -35,4 +35,11 @@ let len = a.len();
 assert(len == 3, 'len seem wrong');
 println!("len of the array is : {}", len);
 
+let empty = a.is_empty();
+assert(!empty, 'array should not be empty');
+println!("is empty : {}", empty);
+
+let _sarr = a.span();
+
+
 }
